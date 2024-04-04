@@ -1,5 +1,5 @@
 window._GIPHY = (function() {
-    var apiKey = "YOUR_GIPHY_API_KEY";
+    var apiKey = "SyAvHrIk2eRwlrfJUIcsKuH84umNIq0l";
     var _results = null;
 
     return { //public API
@@ -14,4 +14,3 @@ window._GIPHY = (function() {
         }
     };
 }());
-
